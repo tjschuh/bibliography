@@ -1,2 +1,2 @@
 # bibliography
-My one and only BibTex bibliography file for LaTeX
+My BibTex bibliography file for LaTeX
